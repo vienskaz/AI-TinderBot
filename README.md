@@ -4,7 +4,8 @@ AI TinderBot
  based on the photos shared on the platform. Currently model is trained to swipe right on blonde people.
 
  To run this bot you have to own a Tinder account connected to gmail,
- chromedriver in project folder
+ chromedriver in project folder.
+ 
  In login.py file you need to adjust your's login and password to your's gmail
  account to log in properly.
 
