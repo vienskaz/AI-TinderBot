@@ -3,7 +3,7 @@ AI TinderBot
  Project's aim is to create a bot that independently makes the decision when to swpie right and when to swpie left
  based on the photos shared on the platform. Currently model is trained to swipe right on blonde people.
 
- To run this bot you have to own a Tinder account connected to gmail,
+ To run this bot you have to own a Tinder account connected to gmail and
  chromedriver in project folder.
  
  In login.py file you need to adjust your's login and password to your's gmail
@@ -15,7 +15,7 @@ AI TinderBot
  with phone, Bot will be able to log in by himself without phone authorization.
 
  When bot is logged he will automically skip pop ups and then collect photo and decide
- to swipe right or left based on hair color.
+ to swipe right or left based on hair color as long as likes are available.
 
 
  Additionaly scarp.py is script which
