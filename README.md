@@ -19,10 +19,10 @@ AI TinderBot
 
 
  Additionaly scarp.py is script which
- was used to collect data for training and test model.
+ was used to collect data for training and testing model.
 
  blonde_detector_model.ipynb is notebook contaning
- the training process
+ the training and test process
 
  
  
