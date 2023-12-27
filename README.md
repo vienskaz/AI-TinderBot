@@ -22,7 +22,7 @@ AI TinderBot
  was used to collect data for training and testing model.
 
  blonde_detector_model.ipynb is notebook contaning
- the training and test process
+ the training and test process.
 
  
  
